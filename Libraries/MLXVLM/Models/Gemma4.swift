@@ -1,3 +1,4 @@
+import Tokenizers
 import CoreImage
 import Foundation
 import MLX
